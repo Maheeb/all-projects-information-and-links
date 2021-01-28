@@ -42,6 +42,13 @@ This is a very intersting fighting game made by vueJS with nice interface.In thi
 * GitHub Link : https://github.com/Maheeb/vueGame
 
 
+### To do list restful api made with laravel, vuejs and axios
+
+This is a to do list app made with laravel, vuejs and axios.
+
+* GitHub Link : https://github.com/Maheeb/To-Do-List---Restful-Api--Laravel-VueJs
+
+
 
 ### One page app made with laravel and VueJS
 
@@ -54,4 +61,19 @@ This is a one page application where I fetched all the data from an API Using Vu
 This is a web app made with Vuejs. In this app, a question will be asked to user. User needs to answer the question. I have used eye catching flip animation in this app. Hope everyone will like this. :)
 
 * GitHub Link : https://github.com/Maheeb/QuizVueJS
+
+
+
+### Python practice in hackerrank
+My solutions of hackerank python section problems.
+
+* GitHub Link : https://github.com/Maheeb/HackerrankPython
+
+
+
+### Sql practice in hackerrank
+My solutions of hackerank sql section problems.
+
+* GitHub Link : https://github.com/Maheeb/sqlhackerank
+
 
