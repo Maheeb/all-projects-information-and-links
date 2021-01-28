@@ -27,6 +27,13 @@ It is a small agricultural farm management project. This is made with Laravel an
 
 
 
+### Blog 
+I have made this blog using laravel where user can give posts and add tags on it . There is also a comment system. The backend is pretty much user friendly because of its UI. The Dasboard is also amazing where a user can create ,update , delete as the way he wish. :)
+
+* GitHub Link : https://github.com/Maheeb/simple_blog
+* Presentation Link : https://docs.google.com/presentation/d/1GtT-FGGPcAfq7YQJ_MtJTQX6Hg7Imzx82L3JqX8VqSE/present#slide=id.p
+
+
 ### Fighting game made with vuejs 
 
 This is a very intersting fighting game made by vueJS with nice interface.In this game, User can attack the opponent monster.In every attack the monster will loose some of its health. In reponse, the monster will attack the user and user will loose some. User has the heal capability. Through which user can heal themselves if his health is too low.
@@ -42,4 +49,9 @@ This is a one page application where I fetched all the data from an API Using Vu
 
 * GitHub Link : https://github.com/Maheeb/laravel-vue-onepageApp
 
+
+### Quiz App
+This is a web app made with Vuejs. In this app, a question will be asked to user. User needs to answer the question. I have used eye catching flip animation in this app. Hope everyone will like this. :)
+
+* GitHub Link : https://github.com/Maheeb/QuizVueJS
 
