@@ -24,3 +24,22 @@ It is a small agricultural farm management project. This is made with Laravel an
 
 * GitHub Link : https://github.com/Maheeb/agro-farm-management
 * Presentation Link : https://docs.google.com/presentation/d/1RyDDo-rADy5vVhrpLTWTJXSbRDG8uMTLsB93nwK9bOU/present#slide=id.p
+
+
+
+### Fighting game made with vuejs 
+
+This is a very intersting fighting game made by vueJS with nice interface.In this game, User can attack the opponent monster.In every attack the monster will loose some of its health. In reponse, the monster will attack the user and user will loose some. User has the heal capability. Through which user can heal themselves if his health is too low.
+:)
+
+* GitHub Link : https://github.com/Maheeb/vueGame
+
+
+
+### One page app made with laravel and VueJS
+
+This is a one page application where I fetched all the data from an API Using Vuejs and fetch API. This API contains information about a blog. I made this to gain deep knowledge about API and how it actually works. Simple CRUD operation is possible here.
+
+* GitHub Link : https://github.com/Maheeb/laravel-vue-onepageApp
+
+
