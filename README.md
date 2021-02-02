@@ -33,6 +33,15 @@ I have made this blog using laravel where user can give posts and add tags on it
 * GitHub Link : https://github.com/Maheeb/simple_blog
 * Presentation Link : https://docs.google.com/presentation/d/1GtT-FGGPcAfq7YQJ_MtJTQX6Hg7Imzx82L3JqX8VqSE/present#slide=id.p
 
+
+
+### Few Realtime apps with laravel
+This project consists of few apps sucs as real time api, a small game and a chatting application. I have learned few new things while doing this project. Such as - Pusher, laravel echo, Laravel events and many more. In near future , I will add many more functionality in near future. :)
+
+* GitHub Link : https://github.com/Maheeb/realtime-apps
+* Presentation Link : https://docs.google.com/presentation/d/18lFAZTDHZQZHJwGUgE9_k3DCQlUF1BlWNuOllNFaZp4/present?slide=id.p
+
+
 ## Online car shop using raw php
 
 This is a online based car shop website made with raw PHP and AJAX. I made this when I was an undergraduate student.In this website, User can choose car from a variety of cars list which are categorized nicely according to his wish and made payment. There is also a login,registration and add to cart options as well.
